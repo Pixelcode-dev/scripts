@@ -1,1 +1,117 @@
-open(teste)
+# 🧠 INDEX – SCRIPTS
+
+Este módulo reúne **100 scripts utilitários** em JavaScript e Python.
+
+---
+
+## 🧩 Lista de scripts disponíveis (1–100)
+
+- script_001  
+- script_002  
+- script_003  
+- script_004  
+- script_005  
+- script_006  
+- script_007  
+- script_008  
+- script_009  
+- script_010  
+- script_011  
+- script_012  
+- script_013  
+- script_014  
+- script_015  
+- script_016  
+- script_017  
+- script_018  
+- script_019  
+- script_020  
+- script_021  
+- script_022  
+- script_023  
+- script_024  
+- script_025  
+- script_026  
+- script_027  
+- script_028  
+- script_029  
+- script_030  
+- script_031  
+- script_032  
+- script_033  
+- script_034  
+- script_035  
+- script_036  
+- script_037  
+- script_038  
+- script_039  
+- script_040  
+- script_041  
+- script_042  
+- script_043  
+- script_044  
+- script_045  
+- script_046  
+- script_047  
+- script_048  
+- script_049  
+- script_050  
+- script_051  
+- script_052  
+- script_053  
+- script_054  
+- script_055  
+- script_056  
+- script_057  
+- script_058  
+- script_059  
+- script_060  
+- script_061  
+- script_062  
+- script_063  
+- script_064  
+- script_065  
+- script_066  
+- script_067  
+- script_068  
+- script_069  
+- script_070  
+- script_071  
+- script_072  
+- script_073  
+- script_074  
+- script_075  
+- script_076  
+- script_077  
+- script_078  
+- script_079  
+- script_080  
+- script_081  
+- script_082  
+- script_083  
+- script_084  
+- script_085  
+- script_086  
+- script_087  
+- script_088  
+- script_089  
+- script_090  
+- script_091  
+- script_092  
+- script_093  
+- script_094  
+- script_095  
+- script_096  
+- script_097  
+- script_098  
+- script_099  
+- script_100  
+
+---
+
+## 📌 Conteúdo de cada script
+- index.html  
+- style.css  
+- script.js  
+- example.py  
+- README.md
