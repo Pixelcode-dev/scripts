@@ -28,3 +28,5 @@ Código totalmente livre para uso.
 <h2>
 ⚠️ OBS: BAIXE O ARQUIVO .ZIP PARA EXTRAÍ-LOS
 </h2>
+
+Scripts/scripts.zip
