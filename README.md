@@ -29,4 +29,4 @@ Código totalmente livre para uso.
 ⚠️ OBS: BAIXE O ARQUIVO .ZIP PARA EXTRAÍ-LOS
 </h2>
 
-Scripts/scripts.zip
+PASTA: Scripts/scripts.zip
